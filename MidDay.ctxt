@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=MidDay
+comment0.text=\r\n\ MidDay\ Inherits\ from\ TimeOfDay\r\n\r\n\ @author\ Shozab\ Anwar\ Siddique\ &\ Krishna\ Prasanna\ Kumar\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=MidDay()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Morning\r\n
+comment2.params=
+comment2.target=int\ getStartTime()
+comment2.text=\r\n\ @return\ The\ start\ time\ of\ MidDay\r\n
+comment3.params=
+comment3.target=int\ getEndTime()
+comment3.text=\r\n\ @return\ The\ end\ time\ of\ MidDay\r\n
+comment4.params=
+comment4.target=Weather\ setWeather()
+comment4.text=\r\n\ Set\ the\ weather\ based\ on\ the\ probability\r\n
+numComments=5

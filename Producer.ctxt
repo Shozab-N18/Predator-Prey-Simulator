@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Producer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Producer\ here.\r\n\ \r\n\ @author\ Krishna\ Prasanna\ Kumar\ &\ Shozab\ Anwar\ Siddique\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Producer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Producer\r\n
+comment2.params=newOrganism
+comment2.target=void\ act(java.util.List)
+comment2.text=\r\n\ This\ is\ what\ the\ Producer\ does\ most\ of\ the\ time\:\ \r\n\ grows,\ creates\ its\ own\ food.\ \r\n\ @param\ newOrganism\r\n
+comment3.params=
+comment3.target=int\ getFoodValue()
+comment3.text=\r\n\ Return's\ the\ food\ value\ that\ an\ animal\ gets\ from\ eating\ a\ Producer.\r\n
+comment4.params=newGlucose
+comment4.target=void\ setGlucose(int)
+comment4.text=\r\n\ Set's\ the\ current\ glucose\ level\ to\ a\ particular\ value.\r\n\ @param\ newGlucose\r\n
+comment5.params=
+comment5.target=double\ getGrowthRate()
+comment6.params=
+comment6.target=int\ getEatableAge()
+comment7.params=
+comment7.target=int\ getMaxWaterLevel()
+comment8.params=
+comment8.target=int\ getMaxSunlightLevel()
+numComments=9

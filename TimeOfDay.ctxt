@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=TimeOfDay
+comment0.text=\r\n\ Abstract\ Class\ for\ the\ Times\ of\ Dat\r\n\r\n\ @author\ Krishna\ Prasanna\ Kumar\ &\ Shozab\ Anwar\ Siddique\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=TimeOfDay()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ TimeOfDay\r\n
+comment2.params=
+comment2.target=long\ getDurationOfDay()
+comment2.text=\r\n\ @return\ Duration\ of\ 1\ day\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ to\ get\ the\ name\ of\ a\ class\ in\ String\ format\r\n
+comment4.params=
+comment4.target=double\ randomise()
+comment4.text=\r\n\ @return\ A\ random\ decimal\ number\ between\ 0\ and\ 1.\r\n
+comment5.params=organism
+comment5.target=boolean\ isSleepTime(Organism)
+comment5.text=\r\n\ @return\ Check\ if\ the\ current\ Time\ of\ day\ is\ the\ sleep\ time.\r\n
+comment6.params=
+comment6.target=Weather\ setWeather()
+comment6.text=\r\n\ Abstract\ Methods\ below\r\n
+comment7.params=
+comment7.target=int\ getStartTime()
+comment8.params=
+comment8.target=int\ getEndTime()
+numComments=9

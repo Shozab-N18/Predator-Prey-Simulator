@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Meteor
+comment0.text=\r\n\ Meteor\ Class\ Inherits\ from\ Weather\r\n\ Rare\ weather\ that\ causes\ a\ lot\ of\ the\ organisms\ to\ die.\r\n\r\n\ @author\ Shozab\ Anwar\ Siddique\ &\ Krishna\ Prasanna\ Kumar\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Meteor()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Meteor\r\n
+comment2.params=
+comment2.target=double\ getSpeedChange()
+comment2.text=\r\n\ @return\ The\ Speed\ change\ based\ on\ the\ weather.\r\n
+comment3.params=
+comment3.target=int\ getSunlightLevel()
+comment3.text=\r\n\ @return\ The\ sunlight\ level\ during\ the\ rain.\ \r\n
+comment4.params=
+comment4.target=int\ getWaterLevel()
+comment4.text=\r\n\ @return\ The\ water\ level\ during\ the\ rain.\r\n
+numComments=5

@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Grass
+comment0.text=\r\n\ A\ simple\ model\ of\ a\ Triceratops.\r\n\ Triceratops\ age,\ move,\ eat\ rabbits,\ and\ die.\r\n\ \r\n\ @author\ Krishna\ Prasanna\ Kumar\ &\ Shozab\ Anwar\ Siddique\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Grass()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Grass\r\n
+comment2.params=
+comment2.target=int\ getMaxAge()
+comment2.text=\r\n\ The\ max\ age\ of\ the\ Grass.\r\n\ @return\ int\r\n
+comment3.params=
+comment3.target=double\ getGrowthRate()
+comment3.text=\r\n\ Return's\ the\ growth\ rate\ of\ the\ Grass.\r\n\ @return\ double\r\n
+comment4.params=
+comment4.target=int\ getEatableAge()
+comment4.text=\r\n\ Return's\ the\ age\ at\ which\ the\ plant\ can\ be\ eaten.\r\n\ @return\ int\r\n
+comment5.params=
+comment5.target=int\ getMaxWaterLevel()
+comment5.text=\r\n\ Return's\ the\ maximum\ water\ level\ for\ a\ Grass.\r\n\ @return\ int\r\n
+comment6.params=
+comment6.target=int\ getMaxSunlightLevel()
+comment6.text=\r\n\ Return's\ the\ maximum\ sunlight\ level\ of\ a\ Grass.\r\n\ @return\ int\r\n
+numComments=7

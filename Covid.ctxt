@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Covid
+comment0.text=\r\n\ Covid\ Inherits\ from\ Disease\r\n\r\n\ @author\ Krishna\ Prasanna\ Kumar\ &\ Shozab\ Anwar\ Siddique\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Covid()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Covid\r\n
+comment2.params=
+comment2.target=double\ getDeathRate()
+comment2.text=\r\n\ @return\ The\ death\ rate\ of\ the\ disease.\r\n
+comment3.params=
+comment3.target=double\ getRecoveryRate()
+comment3.text=\r\n\ @return\ The\ recovery\ rate\ of\ the\ disease.\r\n
+comment4.params=
+comment4.target=double\ getSlowRate()
+comment4.text=\r\n\ @return\ The\ slow\ down\ rate\ on\ the\ organism\ by\ the\ disease.\r\n
+comment5.params=organism
+comment5.target=boolean\ checkAnimal(Organism)
+comment5.text=\r\n\ @return\ Boolean,\ true\ if\ the\ organism\ can\ catch\ the\ disease.\r\n
+numComments=6

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Disease
+comment0.text=\r\n\ Disease\ Interface\ which\ holds\ abstract\ methods\ for\ all\ diseases.\r\n\ \ \r\n\ @author\ Shozab\ Anwar\ Siddique\ &\ Krishna\ Prasanna\ Kumar\r\n\ @version\ 1\r\n
+comment1.params=organism
+comment1.target=boolean\ checkAnimal(Organism)
+comment2.params=
+comment2.target=double\ getDeathRate()
+comment3.params=
+comment3.target=double\ getRecoveryRate()
+comment4.params=
+comment4.target=double\ getSlowRate()
+numComments=5

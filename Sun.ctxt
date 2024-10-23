@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Sun
+comment0.text=\r\n\ Sun\ Inherits\ from\ Weather\r\n\r\n\ @author\ Krishna\ Prasanna\ Kumar\ &\ Shozab\ Anwar\ Siddique\r\n\ @version\ 1\r\n
+comment1.params=
+comment1.target=Sun()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Sun\r\n
+comment2.params=
+comment2.target=double\ getSpeedChange()
+comment2.text=\r\n\ @return\ The\ speed\ change\ based\ on\ the\ weather.\r\n
+comment3.params=
+comment3.target=int\ getSunlightLevel()
+comment3.text=\r\n\ @return\ The\ sunlight\ level\ during\ the\ rain.\ \r\n
+comment4.params=
+comment4.target=int\ getWaterLevel()
+comment4.text=\r\n\ @return\ The\ water\ level\ during\ the\ rain.\r\n
+numComments=5
